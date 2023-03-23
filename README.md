@@ -1,6 +1,7 @@
 # Hi, I'm Albaraa Alhaddar ! 👋
 
-Friendly, organized, and meticulous person. Interested in learning and working on new technologies. Likes to solve complex problems meticulously.
+Self-motivated, Detail-oriented, and organized fresh software developer who has a strong passion for coding with a strong ability to learn quickly and adapt to new technologies. Analytical and Likes to solve complex problems meticulously. Accountable and takes ownership seriously. A caring social person who wants to meet 
+and work with new people.
 
 ## Contact me :
 
