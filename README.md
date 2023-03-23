@@ -1,6 +1,6 @@
 # Hi, I'm Albaraa Alhaddar ! 👋
 
-Detail-oriented, organized, and meticulous person. Interested in learning and working on new technologies. Likes to solve complex problems meticulously. A social person who wants to meet new people loves to code and has different daily challenges.
+Friendly, organized, and meticulous person. Interested in learning and working on new technologies. Likes to solve complex problems meticulously.
 
 ## Contact me :
 
