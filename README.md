@@ -1,6 +1,6 @@
 # Hi, I'm Albaraa Alhaddar ! 👋
 
-I'm a full-stack web developer who's really friendly and cares so much about details and loves solving complex problems.
+Detail-oriented, organized, and meticulous person. Interested in learning and working on new technologies. Likes to solve complex problems meticulously. A social person who wants to meet new people loves to code and has different daily challenges.
 
 ## Contact me :
 
