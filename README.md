@@ -1,6 +1,6 @@
 # Hi, I'm Albaraa Alhaddar ! 👋
 
-Self-motivated, Detail-oriented, and organized software developer who has a strong passion for coding with a strong ability to learn quickly and adapt to new technologies. Analytical and Likes to solve complex problems meticulously. A caring social person who wants to meet
+Self-motivated, detail-oriented, and organized software developer who has a strong passion for coding with a strong ability to learn quickly and adapt to new technologies. Analytical and Likes to solve complex problems meticulously. A caring social person who wants to meet
 and work with new people.
 
 ## Contact me :
