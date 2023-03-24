@@ -95,4 +95,4 @@ and work with new people.
 
 <br />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=BaraaAlhaddar&show_icons=true&theme=dark&title_color=000000&text_color=000000&bg_color=ffffff&hide_border=true" alt="BaraaAlhaddar stats card" /></p>
+<img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=BaraaAlhaddar&theme=tokyonight" alt="BaraaAlhaddar stats card" /></p>
