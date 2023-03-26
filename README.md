@@ -22,7 +22,7 @@ and work with new people.
     
 - 👩‍💻 I'm currently working on a new project
 
-- 🧠 I'm currently learning React Redux
+- 🧠 I'm currently learning PostgreSQL
 
 - 💬 Feel free to ask me about anything
 
