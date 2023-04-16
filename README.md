@@ -22,7 +22,7 @@ and work with new people.
     
 - 👩‍💻 I'm currently working on a new project
 
-- 🧠 I'm currently learning PostgreSQL
+- 🧠 I'm currently learning socket io
 
 - 💬 Feel free to ask me about anything
 
