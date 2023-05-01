@@ -20,9 +20,9 @@ and work with new people.
     
     
     
-- 👩‍💻 I'm currently working on a new project
+- 👩‍💻 I recently finished a new project called SnapFeed
 
-- 🧠 I'm currently learning socket io
+- 🧠 I'm currently learning data structure and algorithm
 
 - 💬 Feel free to ask me about anything
 
